@@ -1,0 +1,11 @@
+{
+  "display_name": "微信插件",
+  "version": "0.1.0",
+  "description": "仿微信界面，支持角色聊天与语音通话",
+  "author": "FOX",
+  "js": "index.js",
+  "css": "style.css",
+  "homepage": "",
+  "tags": [],
+  "requires": []
+}
